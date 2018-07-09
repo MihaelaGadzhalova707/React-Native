@@ -17,5 +17,5 @@ OR -------------------
 2. emulator -list-avds
 3. emulator -avd [emulator_name]
 4. Open a new terminal
-  4.1. cd Example
-  4.2. react-native run-android
+  - cd Example
+  - react-native run-android
